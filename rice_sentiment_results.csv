@@ -1,0 +1,101 @@
+date,post,rice_price,vader_compound,vader_positive,vader_negative,vader_neutral,textblob_polarity,textblob_subjectivity,ensemble_score,sentiment_label,month
+2023-01-15,Bigas pa rin ang pinaka-affordable na pagkain namin. Salamat sa presyo ngayon!,45.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2023-01
+2023-01-22,Rice is still manageable in price. We can still afford it thankfully.,45.2,0.4215,0.203,0.0,0.797,0.4215,0.2935,0.4215,Positive,2023-01
+2023-01-28,Bigas ay still affordable ngayon. No complaints from our market.,45.1,0.3089,0.201,0.0,0.799,0.3089,0.2255,0.3089,Positive,2023-01
+2023-02-10,Medyo tumaas ang bigas sa aming palengke pero okay pa rin.,46.5,0.2263,0.16,0.0,0.84,0.2263,0.1678,0.2263,Positive,2023-02
+2023-02-18,Why is rice getting more expensive? The market price increased this month.,46.8,0.2732,0.16,0.0,0.84,0.2732,0.1959,0.2732,Positive,2023-02
+2023-03-05,Maganda pa rin ang ani this season. Rice prices remain stable so far.,46.0,0.296,0.155,0.0,0.845,0.296,0.2086,0.296,Positive,2023-03
+2023-03-12,Rice supply is normal this March. Farmers are optimistic about harvest.,45.9,0.3182,0.187,0.0,0.813,0.3182,0.2283,0.3182,Positive,2023-03
+2023-03-20,Rice supply seems okay in our area. No major price hike noticed.,45.8,-0.0772,0.135,0.156,0.709,-0.0772,0.1045,-0.0772,Negative,2023-03
+2023-04-07,Nagsimula nang tumaas ang presyo ng bigas. Nakakaalarma na ito.,47.5,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2023-04
+2023-04-19,Rice prices are rising! This is getting difficult for poor families.,48.0,-0.7088,0.0,0.396,0.604,-0.7088,0.5045,-0.7088,Negative,2023-04
+2023-05-03,Ang mahal na ng bigas! Hindi na kaya ng ordinaryong Pilipino ito.,49.5,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2023-05
+2023-05-14,The price of rice has increased dramatically. This is unacceptable!,50.2,-0.2942,0.157,0.246,0.597,-0.2942,0.2571,-0.2942,Negative,2023-05
+2023-05-25,Prices keep climbing. Mahirap na talaga bumili ng bigas ngayon.,50.8,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2023-05
+2023-06-01,Grabe ang pagtaas ng bigas. P55 na per kilo sa aming lugar!,54.5,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2023-06
+2023-06-15,Rice hitting new highs. Families are struggling to buy enough food.,55.3,-0.4215,0.0,0.219,0.781,-0.4215,0.2967,-0.4215,Negative,2023-06
+2023-07-04,El Niño effect hitting us hard. Rice supply is very limited now.,56.8,-0.3804,0.0,0.264,0.736,-0.3804,0.281,-0.3804,Negative,2023-07
+2023-07-18,Walang bigas sa palengke! Very long queue at NFA outlets today.,57.2,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2023-07
+2023-07-25,No rice at the store again today! This shortage is really alarming.,57.5,-0.6741,0.0,0.421,0.579,-0.6741,0.4887,-0.6741,Negative,2023-07
+2023-08-01,Government must act now! Rice prices are destroying family budgets.,58.5,-0.5983,0.0,0.302,0.698,-0.5983,0.4194,-0.5983,Negative,2023-08
+2023-08-12,Taas presyo ng bigas hindi pa humihinto. Nakakainis at nakakalungkot.,59.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2023-08
+2023-09-05,Some relief expected as government intervenes in rice price control.,55.0,0.4767,0.256,0.0,0.744,0.4767,0.3372,0.4767,Positive,2023-09
+2023-09-14,Government price caps on rice are helping. Slight relief felt today.,54.6,0.6133,0.357,0.0,0.643,0.6133,0.4394,0.6133,Positive,2023-09
+2023-09-20,Slight drop in rice prices noticed at the local market. Hopefully sustained.,54.2,0.2247,0.186,0.125,0.689,0.2247,0.197,0.2247,Positive,2023-09
+2023-10-08,Importasyon ng bigas ay nakatulong sa pagbaba ng presyo. Salamat!,52.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2023-10
+2023-10-22,Rice prices coming down slowly. Families feel slightly better now.,51.5,0.3832,0.225,0.0,0.775,0.3832,0.2749,0.3832,Positive,2023-10
+2023-11-05,Harvest season helped stabilize rice prices. Affordable again!,49.8,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2023-11
+2023-11-19,Bigas na mas mura ngayon. Maayos na ang supply chain dito sa amin.,49.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2023-11
+2023-11-28,Thanksgiving vibes — bigas is becoming affordable again. Grateful!,49.2,0.5093,0.292,0.0,0.708,0.5093,0.364,0.5093,Positive,2023-11
+2023-12-03,Good news – rice prices dropped significantly this month. Very happy!,47.5,0.8012,0.444,0.0,0.556,0.8012,0.5695,0.8012,Positive,2023-12
+2023-12-20,Pasasalamat sa pagbaba ng bigas. Mas kaya na ng aming pamilya.,47.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2023-12
+2024-01-08,"New year, better rice prices! Still manageable for most families.",46.5,0.4926,0.262,0.0,0.738,0.4926,0.348,0.4926,Positive,2024-01
+2024-01-20,Rice is still at a reasonable price. Hoping it stays this way.,46.8,0.4215,0.203,0.0,0.797,0.4215,0.2935,0.4215,Positive,2024-01
+2024-01-29,Rice prices holding steady this month. Cautiously optimistic.,46.6,0.3182,0.247,0.0,0.753,0.3182,0.2403,0.3182,Positive,2024-01
+2024-02-05,Another increase in rice price observed. Not good for poor communities.,48.0,0.3502,0.318,0.158,0.524,0.3502,0.3053,0.3502,Positive,2024-02
+2024-02-17,Prices creeping up again. Is another shortage coming? Very worried.,48.5,-0.5413,0.0,0.36,0.64,-0.5413,0.3968,-0.5413,Negative,2024-02
+2024-03-03,Rice market feels unstable. Prices fluctuating week by week.,49.0,-0.3612,0.0,0.238,0.762,-0.3612,0.2643,-0.3612,Negative,2024-03
+2024-03-18,Supply issues causing uncertainty. Market prices going up and down.,49.2,-0.34,0.0,0.211,0.789,-0.34,0.2462,-0.34,Negative,2024-03
+2024-03-25,Market is uncertain. Presyo ng bigas fluctuating every week here.,49.1,-0.296,0.0,0.196,0.804,-0.296,0.2168,-0.296,Negative,2024-03
+2024-04-07,Summer na. Nagsimula ulit na tumaas ang presyo ng bigas.,50.5,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2024-04
+2024-04-21,Prices rising again in April. Farmers say low yield this dry season.,51.0,-0.2732,0.0,0.16,0.84,-0.2732,0.1959,-0.2732,Negative,2024-04
+2024-05-06,Very difficult to buy enough rice this month. Prices are too high.,52.5,-0.4201,0.0,0.202,0.798,-0.4201,0.2925,-0.4201,Negative,2024-05
+2024-05-19,Mga pamilyang mahirap ay apektado ng taas presyo ng bigas ngayon.,53.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2024-05
+2024-05-28,Community kitchen struggling because of high rice prices right now.,52.8,-0.4215,0.0,0.237,0.763,-0.4215,0.3003,-0.4215,Negative,2024-05
+2024-06-02,Rainy season should help improve harvest. Some hope for price drop.,52.0,0.7269,0.475,0.19,0.335,0.7269,0.5691,0.7269,Positive,2024-06
+2024-06-16,Government rice programs helping some communities. Mixed results though.,51.5,0.296,0.216,0.0,0.784,0.296,0.2208,0.296,Positive,2024-06
+2024-07-05,Bumaba na ng konti ang bigas. Maayos na ang supply sa palengke.,50.5,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2024-07
+2024-07-19,Rice prices are slowly dropping this July. Families feeling a bit of relief.,50.0,0.5574,0.295,0.0,0.705,0.5574,0.3934,0.5574,Positive,2024-07
+2024-08-03,Harvest season coming. Farmers optimistic about rice supply this year.,49.0,0.3182,0.204,0.0,0.796,0.3182,0.2317,0.3182,Positive,2024-08
+2024-08-17,Presyo ng bigas ay patuloy na bumababa. Salamat sa magandang ani!,48.5,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2024-08
+2024-08-25,Post-harvest supply improving. Bigas prices dropping nicely.,48.2,0.6908,0.533,0.0,0.467,0.6908,0.5211,0.6908,Positive,2024-08
+2024-09-07,Good harvest this rainy season! Rice is now more affordable at P48/kg.,48.0,0.4389,0.22,0.09,0.69,0.4389,0.3253,0.4389,Positive,2024-09
+2024-09-21,Supply is stable now. Bigas ay mabibili na sa makatwirang presyo.,47.8,0.296,0.18,0.0,0.82,0.296,0.2136,0.296,Positive,2024-09
+2024-10-05,Rice prices slightly up again due to typhoon damage in rice-growing areas.,49.5,-0.4939,0.0,0.225,0.775,-0.4939,0.3413,-0.4939,Negative,2024-10
+2024-10-20,Typhoon nakapinsala sa mga sakahan. Takot na kami sa pagtaas ng bigas.,50.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2024-10
+2024-10-28,Recovery from typhoon damage is slow. Rice prices still unstable.,49.8,-0.6908,0.0,0.416,0.584,-0.6908,0.4977,-0.6908,Negative,2024-10
+2024-11-04,Rice supply slowly recovering post-typhoon. Prices stabilizing this month.,49.2,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2024-11
+2024-11-18,Bigas ay abot-kaya na naman. Masaya ang mga pamilya sa pagbaba ng presyo.,48.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2024-11
+2024-12-06,Holiday season and rice prices remain manageable. Great news for families!,47.5,0.7959,0.441,0.0,0.559,0.7959,0.5657,0.7959,Positive,2024-12
+2024-12-14,Good news before Christmas — bigas prices down to affordable range!,47.2,0.4926,0.242,0.0,0.758,0.4926,0.344,0.4926,Positive,2024-12
+2024-12-22,Pasko na at ang bigas ay hindi masyadong mahal. Masaya kaming pamilya.,47.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2024-12
+2025-01-10,New year brings stable rice prices. Government monitoring supply closely.,46.5,0.296,0.196,0.0,0.804,0.296,0.2168,0.296,Positive,2025-01
+2025-01-24,Rice still affordable in January. Community is hopeful for continued stability.,46.8,0.5106,0.248,0.0,0.752,0.5106,0.356,0.5106,Positive,2025-01
+2025-02-08,Bigas ay medyo tumaas ngayong Pebrero. Sana ay hindi na tumaas pa.,48.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2025-02
+2025-02-14,Valentine's Day and rice prices are giving no love — going up again.,48.2,-0.2425,0.143,0.201,0.656,-0.2425,0.2143,-0.2425,Negative,2025-02
+2025-02-20,Price increase noticed again. Worried this will affect our daily budget.,48.5,0.0258,0.17,0.163,0.667,0.0258,0.0821,0.0258,Neutral,2025-02
+2025-03-07,Dry season worries again. Farmers concerned about irrigation and yield.,49.5,-0.4215,0.0,0.237,0.763,-0.4215,0.3003,-0.4215,Negative,2025-03
+2025-03-21,El Nino threat resurfaces. Rice prices may rise again in coming months.,50.0,-0.5267,0.0,0.236,0.764,-0.5267,0.3632,-0.5267,Negative,2025-03
+2025-04-05,Presyo ng bigas ay patuloy na lumolobog. Nakakaapekto sa aming buhay.,51.5,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2025-04
+2025-04-18,Rising prices again this summer. Very hard for low-income families here.,52.0,-0.1761,0.0,0.145,0.855,-0.1761,0.1347,-0.1761,Negative,2025-04
+2025-04-25,Summer heat is brutal. Rice yields expected to drop this season.,51.8,-0.7351,0.0,0.408,0.592,-0.7351,0.5227,-0.7351,Negative,2025-04
+2025-05-03,Government announces rice importation plan. Some hope for price reduction soon.,52.5,0.4404,0.225,0.0,0.775,0.4404,0.3092,0.4404,Positive,2025-05
+2025-05-17,Balita ng importasyon ng bigas ay nagbigay ng pag-asa sa aming komunidad.,52.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2025-05
+2025-06-02,First shipments of imported rice arriving. Prices beginning to ease slightly.,51.0,0.3612,0.2,0.0,0.8,0.3612,0.2567,0.3612,Positive,2025-06
+2025-06-16,Rice prices slowly dropping as imported supply hits local markets. Relief!,50.5,0.5255,0.253,0.0,0.747,0.5255,0.3659,0.5255,Positive,2025-06
+2025-06-28,Importation efforts paying off. Presyo ng bigas is going down!,50.8,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2025-06
+2025-07-04,Good news -- rice now at P49/kg. Supply is improving significantly.,49.0,0.6908,0.388,0.0,0.612,0.6908,0.4921,0.6908,Positive,2025-07
+2025-07-19,Bigas ay mas mura na ngayon sa palengke. Maganda ang epekto ng importasyon.,48.5,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2025-07
+2025-08-02,Harvest season boosting local supply. Community happy with stable prices.,47.5,0.8074,0.542,0.0,0.458,0.8074,0.5928,0.8074,Positive,2025-08
+2025-08-16,Rice prices are stable and affordable. Farmers reporting good yields.,47.0,0.6249,0.389,0.0,0.611,0.6249,0.4527,0.6249,Positive,2025-08
+2025-09-06,Stable bigas supply this September. Walang shortage na nararamdaman.,46.5,0.0516,0.196,0.179,0.625,0.0516,0.106,0.0516,Positive,2025-09
+2025-09-14,Harvest festivals and affordable rice — community is happy!,46.4,0.7574,0.481,0.0,0.519,0.7574,0.5506,0.7574,Positive,2025-09
+2025-09-20,Community satisfied with current rice prices. Hoping it lasts long-term.,46.2,0.6808,0.412,0.0,0.588,0.6808,0.4909,0.6808,Positive,2025-09
+2025-10-04,Minor price increase due to logistics issues. Still manageable overall.,47.5,0.3182,0.204,0.0,0.796,0.3182,0.2317,0.3182,Positive,2025-10
+2025-10-19,Slight uptick in rice price but not alarming. Supply remains adequate.,47.8,0.4414,0.303,0.0,0.697,0.4414,0.3254,0.4414,Positive,2025-10
+2025-11-03,Harvest yields excellent this year! Rice prices dropping further.,46.0,0.6114,0.333,0.0,0.667,0.6114,0.4334,0.6114,Positive,2025-11
+2025-11-17,Magandang ani ngayong Nobyembre. Bigas ay mas mura na ng kaunti.,45.5,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2025-11
+2025-11-28,Year-end harvest surplus keeping prices low. Great for families.,45.8,0.4588,0.311,0.159,0.53,0.4588,0.3693,0.4588,Positive,2025-11
+2025-12-05,Year-end prices stable. Families can afford rice for the holidays!,45.0,0.6239,0.389,0.0,0.611,0.6239,0.4521,0.6239,Positive,2025-12
+2025-12-20,Masayang Pasko! Abot-kaya ang bigas para sa aming pamilya ngayong kapaskuhan.,45.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2025-12
+2026-01-09,New year 2026 -- rice prices remain low and stable. Very positive outlook.,44.5,0.6115,0.335,0.115,0.55,0.6115,0.4569,0.6115,Positive,2026-01
+2026-01-23,Community groups report improved food security situation this January.,44.8,0.6705,0.44,0.0,0.56,0.6705,0.4903,0.6705,Positive,2026-01
+2026-02-07,Bigas ay mura pa rin ngayong simula ng taon. Maganda ang sitwasyon.,45.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2026-02
+2026-02-21,Prices holding steady. Government supply chain improvements working well.,45.2,0.5267,0.386,0.0,0.614,0.5267,0.3932,0.5267,Positive,2026-02
+2026-03-07,Early dry season but supply reserves strong. No shortage expected soon.,46.0,0.7622,0.422,0.0,0.578,0.7622,0.5417,0.7622,Positive,2026-03
+2026-03-21,Rice prices stable despite dry season. Buffer stocks keeping markets calm.,46.3,0.5423,0.333,0.0,0.667,0.5423,0.392,0.5423,Positive,2026-03
+2026-03-28,Dry season concerns but government buffer stocks keeping prices stable.,46.2,0.4215,0.237,0.0,0.763,0.4215,0.3003,0.4215,Positive,2026-03
+2026-04-05,Summer heat affecting crops but prices manageable. Government acting fast.,47.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2026-04
+2026-04-19,Slight increase in rice price this April. Market still within acceptable range.,47.5,0.5118,0.301,0.0,0.699,0.5118,0.3673,0.5118,Positive,2026-04
+2026-05-03,Community concerned about rising prices heading into mid-year. Watch closely.,48.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutral,2026-05
+2026-05-17,Rice price at P48 -- higher than last year but better than 2023 crisis.,48.2,-0.4215,0.179,0.263,0.558,-0.4215,0.3413,-0.4215,Negative,2026-05
