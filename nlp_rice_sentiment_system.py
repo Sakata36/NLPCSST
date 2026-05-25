@@ -353,18 +353,18 @@ def fit_arima_model(monthly_df, forecast_steps=6):
 #   4. NLP-Price Correlation Scatter Plot
 
 PALETTE = {
-    "bg": "#0F172A",
-    "panel": "#1E293B",
-    "accent1": "#38BDF8",   # sky blue
-    "accent2": "#F97316",   # orange
-    "accent3": "#4ADE80",   # green
-    "accent4": "#F43F5E",   # rose
-    "positive": "#4ADE80",
-    "neutral": "#FACC15",
-    "negative": "#F43F5E",
-    "text": "#E2E8F0",
-    "muted": "#94A3B8",
-    "grid": "#334155",
+    "bg": "#FAFAFA",
+    "panel": "#FFFFFF",
+    "accent1": "#2563EB",
+    "accent2": "#F97316",
+    "accent3": "#16A34A",
+    "accent4": "#DC2626",
+    "positive": "#16A34A",
+    "neutral":  "#D97706",
+    "negative": "#DC2626",
+    "text":     "#111827",
+    "muted":    "#6B7280",
+    "grid":     "#E5E7EB",
 }
 
 def style_axis(ax):
